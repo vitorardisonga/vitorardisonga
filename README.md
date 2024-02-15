@@ -6,7 +6,7 @@ Olá! Meu nome é João Victor Gomes Ardison, sou um desenvolvedor iniciante apa
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vitorardisonga&show_icons=true&theme=radical)
 
 ## Contato
 
